@@ -1,3 +1,29 @@
-body{background-color: black;
+body{/*cor do fundo*/
+    background-color: black;
     color: white;
+}
+strong {/*cor do texto em negrito*/
+    color: #22D4FD;
+}
+header {/*cor do cabeçalho*/
+    background-color: lightblue;
+    color: white;
+    text-align: center;
+}
+p{/*cor do parágrafo*/
+    font-weight: darkgray
+}
+span{/*cor do texto*/
+    color: #22D4FD;
+    border: 1px solid #22D4FD;
+    padding: 10px;
+}
+button {/*cor do botão*/
+    background-color: #22D4FD;
+    color: #000000;
+}
+footer {/*cor do rodapé*/
+    background-color: gray;
+    color: #000000;
+    text-align: center;
 }
